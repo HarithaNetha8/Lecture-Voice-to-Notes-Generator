@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+transformers
+torch
+librosa
+pyvis
+networkx
+spacy
+ffmpeg-python
